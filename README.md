@@ -1,0 +1,1 @@
+# Code-isolate-langage-based-on-ps6-emulator
