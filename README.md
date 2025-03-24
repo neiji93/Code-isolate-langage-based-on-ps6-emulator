@@ -2,4 +2,4 @@
 
 also cyber attack on large wide nejral networks.
 based on https://fr.m.wikipedia.org/wiki/John_Joseph_Hopfield
-not using mean field games 
+not using mean field games perfectly possible.
